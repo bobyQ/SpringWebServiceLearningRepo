@@ -1,0 +1,1 @@
+This repository is aim to study spring-ws to develop web service.
